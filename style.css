@@ -1,0 +1,55 @@
+
+body {
+    background-color: #dbeafe;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+
+.cabecalho {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #2563eb;
+    margin-bottom: 20px;
+}
+
+
+.foto {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+
+.secao {
+    background-color: white;
+    border: 2px solid #93c5fd;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+
+h1 {
+    color: #1e3a8a;
+    font-size: 36px;
+}
+
+h2 {
+    color: #2563eb;
+    font-size: 24px;
+}
+
+
+p, li {
+    color: #111827;
+    font-size: 18px;
+}
